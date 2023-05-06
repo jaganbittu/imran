@@ -1,7 +1,6 @@
 sample.txt
 
-
-*.txt
+password.txt
 ec2.py
 python.py
 sample.py
