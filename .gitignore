@@ -1,11 +1,7 @@
-DevOps@123
-
-
-Admin@123
-
-#ignore .txt file
-sample
-smaple
+sample.txt
 
 
 *.txt
+ec2.py
+python.py
+sample.py
